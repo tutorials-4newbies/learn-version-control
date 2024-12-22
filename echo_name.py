@@ -3,4 +3,5 @@ def echo_name(name):
 
 name = input("Enter your name: ")
 echo_name(name)
+print("done")
 
